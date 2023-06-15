@@ -7,6 +7,8 @@ Finite automata (written in C) designed to recognize typical programming languag
 ## Fig.5.9
 ![Fig 5 9](https://github.com/Sai-Nandan-Desetti/Finite-Automata/assets/80631906/9b8b316f-1e5b-4a56-94f3-c7791ec66728)
 
+## Fig.5.5
+![Fig 5 5](https://github.com/Sai-Nandan-Desetti/Finite-Automata/assets/80631906/736922ad-8139-4d3f-b87d-3d70ac824862)
 
 ### Examples
 * Fig.5.8(b) shows a finite automaton that recognizes identifiers.
@@ -32,9 +34,6 @@ Please enter the symbol: :=
 
 VALID TOKEN!
 ```
-
-## Fig.5.5
-![Fig 5 5](https://github.com/Sai-Nandan-Desetti/Finite-Automata/assets/80631906/736922ad-8139-4d3f-b87d-3d70ac824862)
 
 ## Reference
 Book Title: *System Software - An Introduction to Systems Programming*
